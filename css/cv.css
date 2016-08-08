@@ -1,0 +1,22 @@
+h2 {
+	color:#823288;
+	padding: 5px 0;
+	border-top:2px dotted #823288;
+	border-bottom:2px dotted #823288;
+	font-family:Arial;
+}
+.cvheader{
+	border:2px dotted #823288;
+	padding:10px;
+	font-size:16px;
+}
+.cvheader h3{
+	color:#823288;
+	padding:0;
+	margin:0;
+	font-size:18px;
+}
+ul.liste{
+	padding-left: 20px;
+	list-style-type: disc;
+}

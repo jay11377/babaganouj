@@ -1,0 +1,93 @@
+/*
+	Slideshow
+*/
+
+.slides_nav_container{
+	margin:0;
+	position:relative;
+	width:310px;
+}
+
+#slides, #slides2, #slides3, #slides4 {
+	position:absolute;
+	top:15px;
+	left:27px;
+	z-index:100;
+}
+
+/*
+	Slides container
+	Important:
+	Set the width of your slides container
+	Set to display none, prevents content flash
+*/
+
+.slides_container {
+	width:265px;
+	height:199px; /* Added by JProjet */
+	overflow:hidden;
+	position:relative;
+	display:none;
+}
+
+/*
+	Each slide
+	Important:
+	Set the width of your slides
+	If height not specified height will be set by the slide content
+	Set to display block
+*/
+
+.slides_container div.slide {
+	width:265px;
+	height:199px;
+	display:block;
+}
+
+/*
+	Next/prev buttons
+*/
+
+.mezze_choix_slider .next,.mezze_choix_slider .prev {
+	position:absolute;
+	top:84px;
+	left:-21px;
+	width:24px;
+	height:43px;
+	z-index:101;
+}
+
+.mezze_choix_slider .next {
+	left:271px;
+}
+
+
+/*
+	Pagination
+*/
+.pagination_wrapper {
+	overflow:hidden; /* useful to get the height */
+}
+.pagination {
+	margin-top:10px;
+	width:265px;
+}
+
+.pagination li {
+	float:left;
+	margin:0 12px 0 0;
+	list-style:none;
+}
+
+.pagination li a {
+	display:block;
+	float:left;
+	text-decoration:none;
+	color:#5c5c5c;
+}
+
+.pagination li.current a {
+	margin:0;
+	color:#fff;
+}
+

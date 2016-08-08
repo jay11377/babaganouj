@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media(max-width: 767px){
+.menu-mobile li{
+  width: 50%
+}
+#carte_plats ul.media-list li{width: 100%}
+.header_info_container{margin-top: 40px;}
+
+.header_info
+{
+  font-size:13px;
+  line-height: 14px;
+  margin: 27px 0 0;
+}
+#header_logo img{
+  width: 100px;
+  height: 66px;
+}
+.header_log{
+  margin: 15px 0 10px;
+  text-align: center;
+}
+
+.header_log a{
+	font-size: 15px;
+	display: inline;
+	margin-right: 30px;
+}
+
+}
+
+@media(max-width: 350px){
+.header_log{padding: 0 6px !important;}
+#header_logo img{
+  width: 90px;
+  height: 59px;
+}
+#carte_plats ul.media-list li .img-responsive{max-height:110px;}
+/*.apercu_desc{ height:110px; }*/
+/*.product_desc_bottom{bottom:6px;}*/
+.apercu_desc{ height:auto;}
+.product_desc_bottom{position: inherit; bottom: inherit;}
+.quantite_numero{padding:0 4px;}
+.quantite{margin-top:5px;}
+#carte_plats .fa-minus-square, #carte_plats .fa-plus-square, .quantite_numero{ margin-bottom: 7px}
+
+}

@@ -1,0 +1,193 @@
+<div class="row" id="menuTabs">
+	<div class="col-md-12">
+		<ul id="myTab" class="nav nav-tabs">
+		   <li class="active"><a href="#formules_bentos" data-toggle="tab">Formules Bentos</a></li>
+		   <li><a href="#bentos_seuls" data-toggle="tab">Bentos seuls</a></li>
+		   <li><a href="#les_complements" data-toggle="tab">Les compléments</a></li>
+		   <li><a href="#desserts" data-toggle="tab">Desserts</a></li>
+		   <li><a href="#boissons" data-toggle="tab">Boissons</a></li>
+		</ul>
+		<div id="myTabContent" class="tab-content">
+			<div class="tab-pane fade in active" id="formules_bentos">
+			  	<div class="row">
+			  		<div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Crevettes</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Ebi-Fry.jpg"></a>
+							<div class="name"><a href="">EBI-FRY 弁当</a></div>
+						    <div class="price"><p>12,90 €</p></div>
+							<div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>
+					<div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Poulet</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Kara-Age.jpg"></a>
+							<div class="name"><a href="">KARA-AGE 弁当</a></div>
+						    <div class="price"><p>11,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>
+			        <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale vegetarian">Végétarien</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Saishoku.jpg"></a>
+							<div class="name"><a href="">SAISHOKU 弁当</a></div>
+						    <div class="price"><p>11,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>	
+			  	</div>
+			  	<div class="row">
+				    <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Saumon</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Shake.jpg"></a>
+							<div class="name"><a href="">SHAKE 弁当</a></div>
+						    <div class="price"><p>11,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>
+		            <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Porc</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Tonkatsu.jpg"></a>
+							<div class="name"><a href="">TONKATSU 弁当</a></div>
+						    <div class="price"><p>11,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>
+		            <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Anguille</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Unagi.jpg"></a>
+							<div class="name"><a href="">UNAGI 弁当</a></div>
+						    <div class="price"><p>14,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>	
+				</div>
+			</div>
+			<div class="tab-pane fade" id="bentos_seuls">
+				<div class="row">
+				    <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Saumon</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Shake.jpg"></a>
+							<div class="name"><a href="">SHAKE 弁当</a></div>
+						    <div class="price"><p>11,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>
+		            <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Porc</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Tonkatsu.jpg"></a>
+							<div class="name"><a href="">TONKATSU 弁当</a></div>
+						    <div class="price"><p>11,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>
+		            <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Anguille</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Unagi.jpg"></a>
+							<div class="name"><a href="">UNAGI 弁当</a></div>
+						    <div class="price"><p>14,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>	
+				</div>
+				<div class="row">
+				    <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Crevettes</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Ebi-Fry.jpg"></a>
+							<div class="name"><a href="">EBI-FRY 弁当</a></div>
+						    <div class="price"><p>12,90 €</p></div>
+							<div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>
+			        <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale">Poulet</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Kara-Age.jpg"></a>
+							<div class="name"><a href="">KARA-AGE 弁当</a></div>
+						    <div class="price"><p>11,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>
+			        <div class="col-md-4">
+					    <div class="product">
+							<div class="product_sale vegetarian">Végétarien</div>
+						    <a href="product.html"><img alt="Ebi fry" src="image/bentos/small/Saishoku.jpg"></a>
+							<div class="name"><a href="">SAISHOKU 弁当</a></div>
+						    <div class="price"><p>11,90 €</p></div>
+						    <div class="quantite" data-quantite="1">
+			                  <i class="fa fa-minus-square fa-3x"></i>
+			                  <div class="inline-block quantite_numero">1</div>                        
+			                  <i class="fa fa-plus-square fa-3x"></i>
+			                  <i class="fa fa-shopping-cart fa-2x fa-lg importantButton" data-id="5"></i>
+			                </div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+	</div>	
+</div>
